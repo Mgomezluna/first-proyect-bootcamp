@@ -19,3 +19,9 @@ let computadorasConGpu = compu.filter(compu => compu.gpu)
 console.log(compu.length);
 console.log(compu);
 console.log(computadorasConGpu);
+
+
+function calcularNafta(){
+    let nafta = 300;
+    totalPesos = (nafta * 2)/100
+}
